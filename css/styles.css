@@ -1,0 +1,11 @@
+h1 {
+  color: orange;
+}
+
+.btn {
+  background-color: orange;
+}
+
+#result {
+  display: none;
+}
